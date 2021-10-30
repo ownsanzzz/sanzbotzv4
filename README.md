@@ -1,4 +1,4 @@
-# Queen Alexa
+# SanzBotz × ALEXABOT
 
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
@@ -8,12 +8,12 @@
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
-</p>g
+  <a href="https://wa.me/6289504462436"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
-# ```ALEXA-BUG-BOT```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ownsanzzz/sanzbotzv4)
+# ```SANZ×ALEXA```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
@@ -31,17 +31,17 @@ WhatsApp Bot
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`Click Here`](https://wa.me/6289504462436)
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+[`Click Here`](https://wa.me/6289504462436)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
-- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+- Owner number [Here](https://wa.me/6289504462436)
+- Owner Name [Here](https://wa.me/6289504462436)
+- Bot Name [Here](https://wa.me/6289504462436)
 
 ## `CHANGE DYNO`
 
@@ -55,15 +55,10 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/BcMIibIUmHc)<br>
+[`Click Here For Tutorial`](https://wa.me/6289504462436)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
+  <a href="https://wa.me/6289504462436"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
 </p>
-
-
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/hypermod)
